@@ -6,4 +6,4 @@ Données actuellement récoltées dans le cadre d'un projet de recherche sur les
 -	Breaking the Occult Deception (un board plus générique sur le thème de l’horreur)
 -	Deep politics (également plus axé sur les conspirations politiques)
 
-Les données socn actuellement stockées au format .pdf et au format .md
+Les données sont actuellement stockées au format .pdf et au format .md et ont été récupérées le jeudi 21/03/2024.
