@@ -5,3 +5,5 @@ Données actuellement récoltées dans le cadre d'un projet de recherche sur les
 -	Pizzagate – Real News (en lien avec l’événement du pizzagate)
 -	Breaking the Occult Deception (un board plus générique sur le thème de l’horreur)
 -	Deep politics (également plus axé sur les conspirations politiques)
+
+Les données socn actuellement stockées au format .pdf et au format .md
